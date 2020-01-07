@@ -1,5 +1,5 @@
 class Dog 
-  def dog_with_names name=(dog_name)
+  def name=(dog_name)
     @name = dog_name
   end 
   
